@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/TransactionApp.API/TransactionApp.API.csproj" />
+    <Project Path="src/TransactionApp.Application/TransactionApp.Application.csproj" />
+    <Project Path="src/TransactionApp.Domain/TransactionApp.Domain.csproj" />
+    <Project Path="src/TransactionApp.Infrastructure/TransactionApp.Infrastructure.csproj" />
+  </Folder>
+</Solution>

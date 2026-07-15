@@ -1,0 +1,26 @@
+# Environment
+.env
+.env.local
+
+# .NET
+backend/**/bin/
+backend/**/obj/
+backend/**/*.user
+backend/**/*.suo
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Local SQLite database (dev only)
+db/*.db
+db/*.db-shm
+db/*.db-wal
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude Code local settings
+.claude/

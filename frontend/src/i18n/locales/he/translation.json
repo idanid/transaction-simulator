@@ -1,0 +1,44 @@
+{
+  "header": {
+    "lang_en": "ENG",
+    "lang_he": "עברית"
+  },
+  "dashboard": {
+    "badge": "סימולטור עסקאות",
+    "headline": "האם העסקה תאושר?",
+    "region_label": "אזור",
+    "region_placeholder": "חפש אזור...",
+    "time_label": "הזן שעה",
+    "time_hour": "שעה",
+    "time_minute": "דקה",
+    "time_cancel": "ביטול",
+    "time_ok": "אישור",
+    "submit": "שלח עסקה",
+    "approved_title": "עסקאות מאושרות",
+    "no_transactions": "אין עסקאות מאושרות עדיין.",
+    "card_time": "שעה:",
+    "card_timezone": "אזור זמן:"
+  },
+  "auth": {
+    "login_title": "התחברות",
+    "signup_title": "יצירת חשבון",
+    "email": "אימייל",
+    "password": "סיסמה",
+    "login_btn": "התחבר",
+    "signup_btn": "הרשם",
+    "go_signup": "אין לך חשבון? הירשם",
+    "go_login": "כבר יש לך חשבון? התחבר",
+    "logout": "התנתק"
+  },
+  "toast": {
+    "approved": "העסקה אושרה ✓",
+    "rejected": "העסקה נדחתה ✗",
+    "error": "אירעה שגיאה"
+  },
+  "regions": {
+    "France": "צרפת",
+    "Israel": "ישראל",
+    "Cyprus": "קפריסין",
+    "Italy": "איטליה"
+  }
+}

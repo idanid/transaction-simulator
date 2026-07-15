@@ -1,0 +1,44 @@
+{
+  "header": {
+    "lang_en": "ENG",
+    "lang_he": "Hebrew"
+  },
+  "dashboard": {
+    "badge": "TRANSACTION SIMULATOR",
+    "headline": "Will this transaction be approved?",
+    "region_label": "Region",
+    "region_placeholder": "Search region...",
+    "time_label": "Enter time",
+    "time_hour": "Hour",
+    "time_minute": "Minute",
+    "time_cancel": "Cancel",
+    "time_ok": "OK",
+    "submit": "Submit Transaction",
+    "approved_title": "Approved Transactions",
+    "no_transactions": "No approved transactions yet.",
+    "card_time": "Time:",
+    "card_timezone": "Time Zone:"
+  },
+  "auth": {
+    "login_title": "Sign In",
+    "signup_title": "Create Account",
+    "email": "Email",
+    "password": "Password",
+    "login_btn": "Login",
+    "signup_btn": "Sign Up",
+    "go_signup": "Don't have an account? Sign up",
+    "go_login": "Already have an account? Login",
+    "logout": "Logout"
+  },
+  "toast": {
+    "approved": "Transaction Approved ✓",
+    "rejected": "Transaction Rejected ✗",
+    "error": "Something went wrong"
+  },
+  "regions": {
+    "France": "France",
+    "Israel": "Israel",
+    "Cyprus": "Cyprus",
+    "Italy": "Italy"
+  }
+}
